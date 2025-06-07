@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🧑‍🎓 Studying Computer science<br>📖 Almost 2 years or experience with some projects<br>🌐Check my portfolio : http://nicolassantosdev.com/</p>
+<p align="left">🧑‍🎓 Studying Computer science<br>📖 Almost 2 years of experience with projects<br>🌐Check my portfolio : http://nicolassantosdev.com/</p>
 
 ###
 
