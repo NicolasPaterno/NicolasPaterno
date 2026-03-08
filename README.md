@@ -8,7 +8,13 @@
 
 ###
 
-<p align="left">🧑‍🎓 Studying Computer science<br>📖 Almost 2 years of experience in Full Stack development<br>🌐Check my portfolio : http://nicolassantosdev.com/</p>
+<p align="left">🔭 Working with C# and Angular, building awesome scalable systems
+  <br>
+🌱 I’m currently learning more about System design, AI tools and Golang
+  <br>
+🧑‍🎓 Computer science student
+  <br>
+📖 Almost 2 years of experience in Full Stack development
 
 ###
 
@@ -59,10 +65,5 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasPaterno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasPaterno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
