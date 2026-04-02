@@ -1,57 +1,33 @@
-<br clear="both">
+<h2 align="left">Hello World, Nícolas Paterno dos Santos 👋</h2>
 
-<h2 align="left">Hello World, Nícolas Paterno dos Santos 👋:</h2>
+<img align="right" height="140" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmkwdG83YzczbGEzNWxjdWlibTd1MHJwc3g5cGM2a3F1MXBicHF1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
-###
-
-<img align="right" height="140" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmkwdG83YzczbGEzNWxjdWlibTd1MHJwc3g5cGM2a3F1MXBicHF1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
-<p align="left">🔭 Working with C# and Angular, building awesome scalable systems
-  <br>
-🌱 I’m currently learning more about System design, AI tools and Golang
-  <br>
-🧑‍🎓 Computer science student
-  <br>
-📖 Almost 2 years of experience in Full Stack development
-
-###
+<p align="left">
+  🔭 Working with C# and Angular, building awesome scalable systems<br>
+  🌱 I’m currently learning more about System design, AI tools and Golang<br>
+  🧑‍🎓 Computer science student<br>
+  📖 Almost 2 years of experience in Full Stack development
+</p>
 
 <br clear="both">
 
-<h1 align="left">💻 Tech Stack:</h1>
-<br clear="both">
+<h2 align="left">💻 Tech Stack:</h2>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="33" alt="csharp logo"  />
-  <img width="10" />
+  <img src="https://img.shields.io/badge/C_Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="33" alt="csharp logo" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="33"/>
-  <img width="10" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="33" alt="react logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="33" alt="threejs logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="33" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="33" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="33" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="33" alt="tailwindcss logo"  />
-  <img width="10" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="33" alt="react logo" />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="33" alt="threejs logo" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="33" alt="nodejs logo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="33" alt="typescript logo" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="33" alt="javascript logo" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="33" alt="tailwindcss logo" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="33" alt="docker logo"/>
-  <img width="10" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="33" alt="git logo"/>
-  <img width="10" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="33" alt="github logo"/>
-  <img width="10" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="33" alt="html5 logo"/>
-  <img width="10" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="33" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="33" alt="mysql logo" />
 </div>
-
-###
 
 <br clear="both">
 
@@ -60,9 +36,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolasPaterno/NicolasPaterno/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/NicolasPaterno/NicolasPaterno/output/github-snake.svg" />
 </picture>
-
-###
-
-<br clear="both">
-
-###
