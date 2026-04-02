@@ -21,9 +21,6 @@
 <br clear="both">
 
 <h1 align="left">💻 Tech Stack:</h1>
-
-###
-
 <br clear="both">
 
 <div align="left">
